@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Nomad Lifestyle
 
 ## Why I Chose This Topic
@@ -18,3 +19,7 @@ The lifestyle of digital nomads is inspiring because it represents freedom, remo
 - Destinations
 - Tools
 - Tips
+=======
+# w5-html
+Ben Student 
+>>>>>>> 0d5496b03e16f45108349f2770fbdfd51371906b
